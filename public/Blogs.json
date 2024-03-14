@@ -7,7 +7,8 @@
     "cover_img": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y292ZXJ8ZW58MHx8MHx8fDA%3D",
     "title": "The Great Adventure",
     "hash_tag": "#Adventure #Fiction",
-    "read_time": 2
+    "read_time": 2,
+    "description": "A thrilling adventure that takes the reader on a journey through uncharted territories and mysterious encounters."
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "cover_img": "https://plus.unsplash.com/premium_photo-1663957879016-ea8cedd80889?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y292ZXJ8ZW58MHx8MHx8fDA%3D",
     "title": "Mystery of the Lost Treasure",
     "hash_tag": "#Mystery #Adventure",
-    "read_time": 3.5
+    "read_time": 3.5,
+    "description": "Join Jane Smith in an exciting quest to uncover hidden treasures and solve ancient mysteries."
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "cover_img": "https://images.unsplash.com/photo-1573676564795-be0f1e7396dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNvdmVyfGVufDB8fDB8fHww",
     "title": "The Secret World",
     "hash_tag": "#Fantasy #Adventure",
-    "read_time": 4
+    "read_time": 4,
+    "description": "Enter the magical world created by Alex Johnson, filled with fantastical creatures and epic adventures."
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "cover_img": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvdmVyfGVufDB8fDB8fHww",
     "title": "Beyond the Stars",
     "hash_tag": "#SciFi #Adventure",
-    "read_time": 3
+    "read_time": 3,
+    "description": "Embark on a journey through space and time with Emily Brown as she discovers the wonders beyond the stars."
   },
   {
     "id": 5,
@@ -47,6 +51,7 @@
     "cover_img": "https://images.unsplash.com/photo-1573676564795-be0f1e7396dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNvdmVyfGVufDB8fDB8fHww",
     "title": "The Haunting Hour",
     "hash_tag": "#Horror #Mystery",
-    "read_time": 2.5
+    "read_time": 2.5,
+    "description": "Experience spine-chilling moments and unravel mysteries with Michael Clark in 'The Haunting Hour'."
   }
 ]
